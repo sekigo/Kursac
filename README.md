@@ -42,7 +42,7 @@
 
 ```bash
 pip install numpy scikit-learn faiss-cpu faiss-gpu cuml dask dask-ml matplotlib
-
+```
 🧑‍🎓 Автор
 Сенчугов Кирилл (БПМИ224)
 Руководитель: Б.В. Галицкий
